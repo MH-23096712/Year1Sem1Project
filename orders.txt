@@ -1,0 +1,72 @@
+[
+  {
+    "Order ID": "OR001",
+    "Product ID": "P008",
+    "Quantity": 58,
+    "Order Date": "13/11/2024",
+    "Order Type": "Resupply"
+  },
+  {
+    "Order ID": "OR002",
+    "Product ID": "P006",
+    "Quantity": 61,
+    "Order Date": "18/11/2024",
+    "Order Type": "Resupply"
+  },
+  {
+    "Order ID": "OR003",
+    "Product ID": "P007",
+    "Quantity": 76,
+    "Order Date": "23/11/2024",
+    "Order Type": "Resupply"
+  },
+  {
+    "Order ID": "OR004",
+    "Product ID": "P010",
+    "Quantity": 80,
+    "Order Date": "28/11/2024",
+    "Order Type": "Sale"
+  },
+  {
+    "Order ID": "OR005",
+    "Product ID": "P004",
+    "Quantity": 30,
+    "Order Date": "03/12/2024",
+    "Order Type": "Resupply"
+  },
+  {
+    "Order ID": "OR006",
+    "Product ID": "P004",
+    "Quantity": 47,
+    "Order Date": "08/12/2024",
+    "Order Type": "Sale"
+  },
+  {
+    "Order ID": "OR007",
+    "Product ID": "P001",
+    "Quantity": 80,
+    "Order Date": "13/12/2024",
+    "Order Type": "Sale"
+  },
+  {
+    "Order ID": "OR008",
+    "Product ID": "P008",
+    "Quantity": 47,
+    "Order Date": "18/12/2024",
+    "Order Type": "Sale"
+  },
+  {
+    "Order ID": "OR009",
+    "Product ID": "P005",
+    "Quantity": 29,
+    "Order Date": "23/12/2024",
+    "Order Type": "Resupply"
+  },
+  {
+    "Order ID": "OR010",
+    "Product ID": "P006",
+    "Quantity": 60,
+    "Order Date": "25/12/2024",
+    "Order Type": "Sale"
+  }
+]

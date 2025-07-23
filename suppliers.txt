@@ -1,0 +1,62 @@
+[
+  {
+    "Supplier ID": "S001",
+    "Name": "Ahmad Faizal",
+    "Contact Number": "0123456789",
+    "Email": "ahmad.faizal@gmail.com"
+  },
+  {
+    "Supplier ID": "S002",
+    "Name": "Nur Aisyah",
+    "Contact Number": "0169876543",
+    "Email": "nur.aisyah@gmail.com"
+  },
+  {
+    "Supplier ID": "S003",
+    "Name": "Muhammad Hafiz",
+    "Contact Number": "0192345678",
+    "Email": "muhammad.hafiz@gmail.com"
+  },
+  {
+    "Supplier ID": "S004",
+    "Name": "Siti Khadijah",
+    "Contact Number": "0111234567",
+    "Email": "siti.khadijah@gmail.com"
+  },
+  {
+    "Supplier ID": "S005",
+    "Name": "Tan Wei Ling",
+    "Contact Number": "0178901234",
+    "Email": "tan.weiling@gmail.com"
+  },
+  {
+    "Supplier ID": "S006",
+    "Name": "Lim Jia Hao",
+    "Contact Number": "0134567890",
+    "Email": "lim.jiahao@gmail.com"
+  },
+  {
+    "Supplier ID": "S007",
+    "Name": "Sharifah Nadia",
+    "Contact Number": "0146789012",
+    "Email": "sharifah.nadia@gmail.com"
+  },
+  {
+    "Supplier ID": "S008",
+    "Name": "Syed Farhan",
+    "Contact Number": "0183456789",
+    "Email": "syed.farhan@gmail.com"
+  },
+  {
+    "Supplier ID": "S009",
+    "Name": "Chong Mei Li",
+    "Contact Number": "0102345678",
+    "Email": "chong.meili@gmail.com"
+  },
+  {
+    "Supplier ID": "S010",
+    "Name": "Ravi Subramaniam",
+    "Contact Number": "0157890123",
+    "Email": "ravi.subramaniam@gmail.com"
+  }
+]

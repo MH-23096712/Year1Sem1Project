@@ -1,0 +1,72 @@
+[
+  {
+    "Product ID": "P001",
+    "Name": "Laptop Computers",
+    "Description": "High-performance devices for work or personal use.",
+    "Price": 3500.0,
+    "Stock": 38
+  },
+  {
+    "Product ID": "P002",
+    "Name": "Wireless Headphones",
+    "Description": "Noise-canceling and Bluetooth-enabled audio devices.",
+    "Price": 450.0,
+    "Stock": 64
+  },
+  {
+    "Product ID": "P003",
+    "Name": "Office Chairs",
+    "Description": "Ergonomic chairs designed for comfort and productivity.",
+    "Price": 299.99,
+    "Stock": 25
+  },
+  {
+    "Product ID": "P004",
+    "Name": "LED Monitors",
+    "Description": "High-resolution screens for computers.",
+    "Price": 700.0,
+    "Stock": 58
+  },
+  {
+    "Product ID": "P005",
+    "Name": "Smartphones",
+    "Description": "Latest models with advanced features and connectivity.",
+    "Price": 2800.0,
+    "Stock": 95
+  },
+  {
+    "Product ID": "P006",
+    "Name": "A4 Printer Paper (1 Ream)",
+    "Description": "Standard paper size used for printing documents and reports.",
+    "Price": 15.69,
+    "Stock": 194
+  },
+  {
+    "Product ID": "P007",
+    "Name": "32GB USB Flash Drives",
+    "Description": "Compact storage devices for data transfer.",
+    "Price": 40.0,
+    "Stock": 80
+  },
+  {
+    "Product ID": "P008",
+    "Name": "Bluetooth Speakers",
+    "Description": "Portable speakers that wirelessly stream audio via Bluetooth.",
+    "Price": 200.0,
+    "Stock": 37
+  },
+  {
+    "Product ID": "P009",
+    "Name": "1TB External Hard Drives",
+    "Description": "Portable storage devices for backing up and transferring large files.",
+    "Price": 249.99,
+    "Stock": 24
+  },
+  {
+    "Product ID": "P010",
+    "Name": "Power Banks",
+    "Description": "Portable chargers for on-the-go device charging.",
+    "Price": 120.0,
+    "Stock": 119
+  }
+]
